@@ -1,2 +1,2 @@
 This is master branch file---2
-
+Edit from private branch
